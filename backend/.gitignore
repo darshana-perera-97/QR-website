@@ -9,6 +9,10 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# data
+./data
+data
+
 # Environment variables
 .env
 .env.local
